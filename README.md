@@ -1,0 +1,2 @@
+test1是GPU训练的模型代码，test2是采用CPU进行训练的代码；
+test_anomaly_detection.py是测试代码用于测试test1/test2的正常数据（0-7）、以及测试一下异常数据8和9、以及Fashion-MNIST数据集，用于深度学习初学者进行学习异常数据在训练好的数据上的表现。
